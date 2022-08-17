@@ -1,1 +1,1 @@
-test argo cd sync
+test argo cd sync 2
